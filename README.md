@@ -1,4 +1,3 @@
-**SORRY, nvmw is no longer maintained. If someone wants to keep maintained
 
 Node Version Manager for Windows
 ================================
